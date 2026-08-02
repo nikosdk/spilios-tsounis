@@ -5,7 +5,7 @@ const paintings = [
     "title": "Μάγια",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_0.jpg",
+    "image": "./images/painting_0.jpg",
     "year": "2000",
     "subTag": "Πορτραίτα"
   },
@@ -14,7 +14,7 @@ const paintings = [
     "title": "Μοναξιά, 1992",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_1.jpg",
+    "image": "./images/painting_1.jpg",
     "year": "2000",
     "subTag": "Πορτραίτα"
   },
@@ -23,7 +23,7 @@ const paintings = [
     "title": "Μάγια, 1982",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_2.jpg",
+    "image": "./images/painting_2.jpg",
     "year": "2000",
     "subTag": "Πορτραίτα"
   },
@@ -32,7 +32,7 @@ const paintings = [
     "title": "Βρεφοκρατούσα",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_3.jpg",
+    "image": "./images/painting_3.jpg",
     "year": "2000",
     "subTag": "Πορτραίτα"
   },
@@ -41,7 +41,7 @@ const paintings = [
     "title": "Αυτοπροσωπογραφία, 1988",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_4.jpg",
+    "image": "./images/painting_4.jpg",
     "year": "2000",
     "subTag": "Πορτραίτα"
   },
@@ -50,7 +50,7 @@ const paintings = [
     "title": "Η Γυναίκα με το Λουλούδι",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_5.jpg",
+    "image": "./images/painting_5.jpg",
     "year": "2000",
     "subTag": "Πορτραίτα"
   },
@@ -59,7 +59,7 @@ const paintings = [
     "title": "Λουόμενη, 1989",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_6.jpg",
+    "image": "./images/painting_6.jpg",
     "year": "2000",
     "subTag": "Πορτραίτα"
   },
@@ -68,7 +68,7 @@ const paintings = [
     "title": "Εκπεσσών, 1991",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_7.jpg",
+    "image": "./images/painting_7.jpg",
     "year": "2000",
     "subTag": "Πορτραίτα"
   },
@@ -77,7 +77,7 @@ const paintings = [
     "title": "Γυμνό, 1976",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_8.jpg",
+    "image": "./images/painting_8.jpg",
     "year": "2000",
     "subTag": "Πορτραίτα"
   },
@@ -86,7 +86,7 @@ const paintings = [
     "title": "Ιανός, 1990 (μελάνι σουπιάς)",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_9.jpg",
+    "image": "./images/painting_9.jpg",
     "year": "2000",
     "subTag": "Πορτραίτα"
   },
@@ -95,7 +95,7 @@ const paintings = [
     "title": "Αναμνηστικό, 1984",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_10.jpg",
+    "image": "./images/painting_10.jpg",
     "year": "2000",
     "subTag": "Πορτραίτα"
   },
@@ -104,7 +104,7 @@ const paintings = [
     "title": "Πρόσωπο, 1988",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_11.jpg",
+    "image": "./images/painting_11.jpg",
     "year": "2000",
     "subTag": "Πορτραίτα"
   },
@@ -113,7 +113,7 @@ const paintings = [
     "title": "Χρυσάνθη, 1981",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_12.jpg",
+    "image": "./images/painting_12.jpg",
     "year": "2000",
     "subTag": "Πορτραίτα"
   },
@@ -122,7 +122,7 @@ const paintings = [
     "title": "Σκιά στην Άμμο, 1991",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_13.jpg",
+    "image": "./images/painting_13.jpg",
     "year": "2000",
     "subTag": "Πορτραίτα"
   },
@@ -131,7 +131,7 @@ const paintings = [
     "title": "Μάγια και Σπήλιος, 1991",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_14.jpg",
+    "image": "./images/painting_14.jpg",
     "year": "2000",
     "subTag": "Πορτραίτα"
   },
@@ -140,7 +140,7 @@ const paintings = [
     "title": "Βυθός, 2007",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_15.jpg",
+    "image": "./images/painting_15.jpg",
     "year": "2000",
     "subTag": "Συμπαντικά Τοπία"
   },
@@ -149,7 +149,7 @@ const paintings = [
     "title": "Ουράνιοι Σπόνδυλοι",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_16.jpg",
+    "image": "./images/painting_16.jpg",
     "year": "2000",
     "subTag": "Συμπαντικά Τοπία"
   },
@@ -158,7 +158,7 @@ const paintings = [
     "title": "Έξαψη, 1991",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_17.jpg",
+    "image": "./images/painting_17.jpg",
     "year": "2000",
     "subTag": "Συμπαντικά Τοπία"
   },
@@ -167,7 +167,7 @@ const paintings = [
     "title": "Νεφέλες, 1991",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_18.jpg",
+    "image": "./images/painting_18.jpg",
     "year": "2000",
     "subTag": "Συμπαντικά Τοπία"
   },
@@ -176,7 +176,7 @@ const paintings = [
     "title": "Παραλίμνιο Τοπίο",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_19.jpg",
+    "image": "./images/painting_19.jpg",
     "year": "2000",
     "subTag": "Συμπαντικά Τοπία"
   },
@@ -185,7 +185,7 @@ const paintings = [
     "title": "Εκλάμψεις, 1991",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_20.jpg",
+    "image": "./images/painting_20.jpg",
     "year": "2000",
     "subTag": "Συμπαντικά Τοπία"
   },
@@ -194,7 +194,7 @@ const paintings = [
     "title": "Έκρηξη, 1991",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_21.jpg",
+    "image": "./images/painting_21.jpg",
     "year": "2000",
     "subTag": "Συμπαντικά Τοπία"
   },
@@ -203,7 +203,7 @@ const paintings = [
     "title": "Θάλασσα",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_22.jpg",
+    "image": "./images/painting_22.jpg",
     "year": "2000",
     "subTag": "Συμπαντικά Τοπία"
   },
@@ -212,7 +212,7 @@ const paintings = [
     "title": "Κυμματοθραύστης, 1991",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_23.jpg",
+    "image": "./images/painting_23.jpg",
     "year": "2000",
     "subTag": "Συμπαντικά Τοπία"
   },
@@ -221,7 +221,7 @@ const paintings = [
     "title": "Κρανίου Τόπος, 1999",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_24.jpg",
+    "image": "./images/painting_24.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -230,7 +230,7 @@ const paintings = [
     "title": "Η Πτώση της Αθωότητας",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_25.jpg",
+    "image": "./images/painting_25.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -239,7 +239,7 @@ const paintings = [
     "title": "Ηλιακό Πλέγμα-Γυναίκα",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_26.jpg",
+    "image": "./images/painting_26.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -248,7 +248,7 @@ const paintings = [
     "title": "Τοπίο Κορμού",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_27.jpg",
+    "image": "./images/painting_27.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -257,7 +257,7 @@ const paintings = [
     "title": "Αρχέγονο",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_28.jpg",
+    "image": "./images/painting_28.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -266,7 +266,7 @@ const paintings = [
     "title": "Ποσειδώνας, 2004",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_29.jpg",
+    "image": "./images/painting_29.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -275,7 +275,7 @@ const paintings = [
     "title": "Ποσειδώνας (Β&#039; Εκδοχή), 2021",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_30.jpg",
+    "image": "./images/painting_30.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -284,7 +284,7 @@ const paintings = [
     "title": "Κάθαρση, 1990",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_31.jpg",
+    "image": "./images/painting_31.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -293,7 +293,7 @@ const paintings = [
     "title": "Άγγελος Eξ&#039; Ουρανού, 1996",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_32.jpg",
+    "image": "./images/painting_32.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -302,7 +302,7 @@ const paintings = [
     "title": "Άτιτλο 5",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_33.jpg",
+    "image": "./images/painting_33.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -311,7 +311,7 @@ const paintings = [
     "title": "Μελωδία των Υδάτων, 1993",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_34.jpg",
+    "image": "./images/painting_34.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -320,7 +320,7 @@ const paintings = [
     "title": "Τομή",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_35.jpg",
+    "image": "./images/painting_35.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -329,7 +329,7 @@ const paintings = [
     "title": "Κρυφό Κοίταγμα",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_36.jpg",
+    "image": "./images/painting_36.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -338,7 +338,7 @@ const paintings = [
     "title": "Κρυψίνους, 1990",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_37.jpg",
+    "image": "./images/painting_37.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -347,7 +347,7 @@ const paintings = [
     "title": "Ιππέας, 1989",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_38.jpg",
+    "image": "./images/painting_38.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -356,7 +356,7 @@ const paintings = [
     "title": "Πολεμιστής, 1992",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_39.jpg",
+    "image": "./images/painting_39.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -365,7 +365,7 @@ const paintings = [
     "title": "Άτιτλο 1",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_40.jpg",
+    "image": "./images/painting_40.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -374,7 +374,7 @@ const paintings = [
     "title": "Άτιτλο, 1988",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_41.jpg",
+    "image": "./images/painting_41.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -383,7 +383,7 @@ const paintings = [
     "title": "Άτιτλο 6",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_42.jpg",
+    "image": "./images/painting_42.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -392,7 +392,7 @@ const paintings = [
     "title": "Άτιτλο 2",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_43.jpg",
+    "image": "./images/painting_43.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -401,7 +401,7 @@ const paintings = [
     "title": "Άτιτλο 3",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_44.jpg",
+    "image": "./images/painting_44.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -410,7 +410,7 @@ const paintings = [
     "title": "Άτιτλο 11",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_45.jpg",
+    "image": "./images/painting_45.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -419,7 +419,7 @@ const paintings = [
     "title": "Ο Άγγελος των Υδάτων, 2003",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_46.jpg",
+    "image": "./images/painting_46.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -428,7 +428,7 @@ const paintings = [
     "title": "Άτιτλο 7",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_47.jpg",
+    "image": "./images/painting_47.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -437,7 +437,7 @@ const paintings = [
     "title": "Άτιτλο 4",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_48.jpg",
+    "image": "./images/painting_48.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -446,7 +446,7 @@ const paintings = [
     "title": "Σαρκοφάγος",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_49.jpg",
+    "image": "./images/painting_49.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -455,7 +455,7 @@ const paintings = [
     "title": "Συνομιλία Σπονδύλων, 1996",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_50.jpg",
+    "image": "./images/painting_50.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -464,7 +464,7 @@ const paintings = [
     "title": "Συνομιλία, 1998",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_51.jpg",
+    "image": "./images/painting_51.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -473,7 +473,7 @@ const paintings = [
     "title": "Αποχωρισμός, 1991",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_52.jpg",
+    "image": "./images/painting_52.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -482,7 +482,7 @@ const paintings = [
     "title": "Νοσταλγικόν, 1982",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_53.jpg",
+    "image": "./images/painting_53.jpg",
     "year": "2000",
     "subTag": "Συνθέσεις"
   },
@@ -491,7 +491,7 @@ const paintings = [
     "title": "Μαγδαληνή, 2003",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_54.jpg",
+    "image": "./images/painting_54.jpg",
     "year": "2000",
     "subTag": "Άτιτλα"
   },
@@ -500,7 +500,7 @@ const paintings = [
     "title": "11η Σεπτεμβρίου, 2018",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_55.jpg",
+    "image": "./images/painting_55.jpg",
     "year": "2000",
     "subTag": "Άτιτλα"
   },
@@ -509,7 +509,7 @@ const paintings = [
     "title": "Άτιτλο, 1995",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_56.jpg",
+    "image": "./images/painting_56.jpg",
     "year": "2000",
     "subTag": "Άτιτλα"
   },
@@ -518,7 +518,7 @@ const paintings = [
     "title": "Το Χέρι, 1991",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_57.jpg",
+    "image": "./images/painting_57.jpg",
     "year": "2000",
     "subTag": "Άτιτλα"
   },
@@ -527,7 +527,7 @@ const paintings = [
     "title": "Τοπογράφημα, 1992",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_58.jpg",
+    "image": "./images/painting_58.jpg",
     "year": "2000",
     "subTag": "Άτιτλα"
   },
@@ -536,7 +536,7 @@ const paintings = [
     "title": "Σαρκοφάγος",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_59.jpg",
+    "image": "./images/painting_59.jpg",
     "year": "2000",
     "subTag": "Άτιτλα"
   },
@@ -545,7 +545,7 @@ const paintings = [
     "title": "Εγκλωβισμός, 1991",
     "tag": "Λυρικά",
     "category": "painting",
-    "image": "/images/painting_60.jpg",
+    "image": "./images/painting_60.jpg",
     "year": "2000",
     "subTag": "Άτιτλα"
   },
@@ -554,7 +554,7 @@ const paintings = [
     "title": "Ορφέας, 1987",
     "tag": "Γεωμετρικός Κυβισμός",
     "category": "painting",
-    "image": "/images/painting_61.jpg",
+    "image": "./images/painting_61.jpg",
     "year": "2000"
   },
   {
@@ -562,7 +562,7 @@ const paintings = [
     "title": "Αρχέτυπο",
     "tag": "Γεωμετρικός Κυβισμός",
     "category": "painting",
-    "image": "/images/painting_62.jpg",
+    "image": "./images/painting_62.jpg",
     "year": "2000"
   },
   {
@@ -570,7 +570,7 @@ const paintings = [
     "title": "Γέννηση",
     "tag": "Γεωμετρικός Κυβισμός",
     "category": "painting",
-    "image": "/images/painting_63.jpg",
+    "image": "./images/painting_63.jpg",
     "year": "2000"
   },
   {
@@ -578,7 +578,7 @@ const paintings = [
     "title": "Πολεμιστές, 1992",
     "tag": "Γεωμετρικός Κυβισμός",
     "category": "painting",
-    "image": "/images/painting_64.jpg",
+    "image": "./images/painting_64.jpg",
     "year": "2000"
   },
   {
@@ -586,7 +586,7 @@ const paintings = [
     "title": "Οικογένεια-Ανάσταση, 1988",
     "tag": "Γεωμετρικός Κυβισμός",
     "category": "painting",
-    "image": "/images/painting_65.jpg",
+    "image": "./images/painting_65.jpg",
     "year": "2000"
   },
   {
@@ -594,7 +594,7 @@ const paintings = [
     "title": "Γυναίκα-Πουλί, 1985",
     "tag": "Γεωμετρικός Κυβισμός",
     "category": "painting",
-    "image": "/images/painting_66.jpg",
+    "image": "./images/painting_66.jpg",
     "year": "2000"
   },
   {
@@ -602,7 +602,7 @@ const paintings = [
     "title": "Προσωπογραφία Μάγιας, 1988",
     "tag": "Γεωμετρικός Κυβισμός",
     "category": "painting",
-    "image": "/images/painting_67.jpg",
+    "image": "./images/painting_67.jpg",
     "year": "2000"
   },
   {
@@ -610,7 +610,7 @@ const paintings = [
     "title": "Εξωγήινος, 1992",
     "tag": "Γεωμετρικός Κυβισμός",
     "category": "painting",
-    "image": "/images/painting_68.jpg",
+    "image": "./images/painting_68.jpg",
     "year": "2000"
   },
   {
@@ -618,7 +618,7 @@ const paintings = [
     "title": "Βρέφος-Μάγια",
     "tag": "Γεωμετρικός Κυβισμός",
     "category": "painting",
-    "image": "/images/painting_69.jpg",
+    "image": "./images/painting_69.jpg",
     "year": "2000"
   },
   {
@@ -626,7 +626,7 @@ const paintings = [
     "title": "Σύλληψη, 1990",
     "tag": "Γεωμετρικός Κυβισμός",
     "category": "painting",
-    "image": "/images/painting_70.jpg",
+    "image": "./images/painting_70.jpg",
     "year": "2000"
   },
   {
@@ -634,7 +634,7 @@ const paintings = [
     "title": "Άτιτλο82, 1991",
     "tag": "Γεωμετρικός Κυβισμός",
     "category": "painting",
-    "image": "/images/painting_71.jpg",
+    "image": "./images/painting_71.jpg",
     "year": "2000"
   },
   {
@@ -642,7 +642,7 @@ const paintings = [
     "title": "Φιλαυτία",
     "tag": "Γεωμετρικός Κυβισμός",
     "category": "painting",
-    "image": "/images/painting_72.jpg",
+    "image": "./images/painting_72.jpg",
     "year": "2000"
   },
   {
@@ -650,7 +650,7 @@ const paintings = [
     "title": "Αναπόληση, 1992",
     "tag": "Γεωμετρικός Κυβισμός",
     "category": "painting",
-    "image": "/images/painting_73.jpg",
+    "image": "./images/painting_73.jpg",
     "year": "2000"
   },
   {
@@ -658,7 +658,7 @@ const paintings = [
     "title": "Μάνα του Κόσμου (Βραβευμένο από την ΟΥΝΕΣΚΟ), 2003",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_74.jpg",
+    "image": "./images/painting_74.jpg",
     "year": "2000",
     "subTag": "Μνήμες – Μάνες του κόσμου"
   },
@@ -667,7 +667,7 @@ const paintings = [
     "title": "Μνήμες Πολέμου",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_75.jpg",
+    "image": "./images/painting_75.jpg",
     "year": "2000",
     "subTag": "Μνήμες – Μάνες του κόσμου"
   },
@@ -676,7 +676,7 @@ const paintings = [
     "title": "Μάνες Πολέμου",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_76.jpg",
+    "image": "./images/painting_76.jpg",
     "year": "2000",
     "subTag": "Μνήμες – Μάνες του κόσμου"
   },
@@ -685,7 +685,7 @@ const paintings = [
     "title": "Μνήμες, 1991",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_77.jpg",
+    "image": "./images/painting_77.jpg",
     "year": "2000",
     "subTag": "Μνήμες – Μάνες του κόσμου"
   },
@@ -694,7 +694,7 @@ const paintings = [
     "title": "Κραυγή Πολέμου-Μάνα, 1991",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_78.jpg",
+    "image": "./images/painting_78.jpg",
     "year": "2000",
     "subTag": "Μνήμες – Μάνες του κόσμου"
   },
@@ -703,7 +703,7 @@ const paintings = [
     "title": "Μνήμες (Κυψέλη)",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_79.jpg",
+    "image": "./images/painting_79.jpg",
     "year": "2000",
     "subTag": "Μνήμες – Μάνες του κόσμου"
   },
@@ -712,7 +712,7 @@ const paintings = [
     "title": "Μελισσοκόμος",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_80.jpg",
+    "image": "./images/painting_80.jpg",
     "year": "2000",
     "subTag": "Μνήμες – Μάνες του κόσμου"
   },
@@ -721,7 +721,7 @@ const paintings = [
     "title": "Ευρίκλεια",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_81.jpg",
+    "image": "./images/painting_81.jpg",
     "year": "2000",
     "subTag": "Μνήμες – Μάνες του κόσμου"
   },
@@ -730,7 +730,7 @@ const paintings = [
     "title": "Λουλούδι",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_82.jpg",
+    "image": "./images/painting_82.jpg",
     "year": "2000",
     "subTag": "Μνήμες – Μάνες του κόσμου"
   },
