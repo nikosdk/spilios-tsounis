@@ -739,7 +739,7 @@ const paintings = [
     "title": "Μνήμες, 2000",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_83.jpg",
+    "image": "./images/painting_83.jpg",
     "year": "2000",
     "subTag": "Μνήμες – Μάνες του κόσμου"
   },
@@ -748,7 +748,7 @@ const paintings = [
     "title": "Μνήμες 2002",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_84.jpg",
+    "image": "./images/painting_84.jpg",
     "year": "2000",
     "subTag": "Μνήμες – Μάνες του κόσμου"
   },
@@ -757,7 +757,7 @@ const paintings = [
     "title": "Μνήμες, 1998",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_85.jpg",
+    "image": "./images/painting_85.jpg",
     "year": "2000",
     "subTag": "Μνήμες – Μάνες του κόσμου"
   },
@@ -766,7 +766,7 @@ const paintings = [
     "title": "Πηνελόπη-Αργαλειός, 2003",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_86.jpg",
+    "image": "./images/painting_86.jpg",
     "year": "2000",
     "subTag": "Οδύσσεια"
   },
@@ -775,7 +775,7 @@ const paintings = [
     "title": "Το Όνειρο της Πηνελόπης, 2004",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_87.jpg",
+    "image": "./images/painting_87.jpg",
     "year": "2000",
     "subTag": "Οδύσσεια"
   },
@@ -784,7 +784,7 @@ const paintings = [
     "title": "Ανθάνθρωποι, 2004",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_88.jpg",
+    "image": "./images/painting_88.jpg",
     "year": "2000",
     "subTag": "Οδύσσεια"
   },
@@ -793,7 +793,7 @@ const paintings = [
     "title": "Μάντης Κάλχας και Οδυσσέας, 2003",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_89.jpg",
+    "image": "./images/painting_89.jpg",
     "year": "2000",
     "subTag": "Οδύσσεια"
   },
@@ -802,7 +802,7 @@ const paintings = [
     "title": "Η Σχεδία του Οδυσσέα, 2003",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_90.jpg",
+    "image": "./images/painting_90.jpg",
     "year": "2000",
     "subTag": "Οδύσσεια"
   },
@@ -811,7 +811,7 @@ const paintings = [
     "title": "Σταύρωσις, 1973",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_91.jpg",
+    "image": "./images/painting_91.jpg",
     "year": "2000",
     "subTag": "Διάφορα"
   },
@@ -820,7 +820,7 @@ const paintings = [
     "title": "Πόλεμος του Κόλπου (Ιράκ), 2003",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_92.jpg",
+    "image": "./images/painting_92.jpg",
     "year": "2000",
     "subTag": "Διάφορα"
   },
@@ -829,7 +829,7 @@ const paintings = [
     "title": "Ολυμπιακή Φλόγα",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_93.jpg",
+    "image": "./images/painting_93.jpg",
     "year": "2000",
     "subTag": "Διάφορα"
   },
@@ -838,7 +838,7 @@ const paintings = [
     "title": "Προς τη Δόξα, 2003",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_94.jpg",
+    "image": "./images/painting_94.jpg",
     "year": "2000",
     "subTag": "Διάφορα"
   },
@@ -847,7 +847,7 @@ const paintings = [
     "title": "Οικογένεια, 2002",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_95.jpg",
+    "image": "./images/painting_95.jpg",
     "year": "2000",
     "subTag": "Διάφορα"
   },
@@ -856,7 +856,7 @@ const paintings = [
     "title": "Βλέμμα, 1986 (κυψέλη σε ξύλο καρυδιάς)",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_96.jpg",
+    "image": "./images/painting_96.jpg",
     "year": "2000",
     "subTag": "Διάφορα"
   },
@@ -865,7 +865,7 @@ const paintings = [
     "title": "Ορφέας Κοιμώμενος, 2002",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_97.jpg",
+    "image": "./images/painting_97.jpg",
     "year": "2000",
     "subTag": "Διάφορα"
   },
@@ -874,7 +874,7 @@ const paintings = [
     "title": "Μπαλαρίνα, 2001",
     "tag": "Μεικτή Τεχνική",
     "category": "painting",
-    "image": "/images/painting_98.jpg",
+    "image": "./images/painting_98.jpg",
     "year": "2000",
     "subTag": "Διάφορα"
   }
@@ -886,7 +886,7 @@ const sculptures = [
     "title": "Χορεύτρια, 2000",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_0.jpg",
+    "image": "./images/sculpture_0.jpg",
     "year": "2000"
   },
   {
@@ -894,7 +894,7 @@ const sculptures = [
     "title": "Αγαμέμνων",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_1.jpg",
+    "image": "./images/sculpture_1.jpg",
     "year": "2000"
   },
   {
@@ -902,7 +902,7 @@ const sculptures = [
     "title": "Γυναίκα-Θηρίο",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_2.jpg",
+    "image": "./images/sculpture_2.jpg",
     "year": "2000"
   },
   {
@@ -910,7 +910,7 @@ const sculptures = [
     "title": "Γυναίκα-Θηρίο (πίσω όψη)",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_3.jpg",
+    "image": "./images/sculpture_3.jpg",
     "year": "2000"
   },
   {
@@ -918,7 +918,7 @@ const sculptures = [
     "title": "Διάς/Ταύρος &amp;amp; Ευρώπη- Δίας/Ταύρος, 2004 (μπροστά όψη)",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_4.jpg",
+    "image": "./images/sculpture_4.jpg",
     "year": "2000"
   },
   {
@@ -926,7 +926,7 @@ const sculptures = [
     "title": "Διάς/Ταύρος &amp;amp; Ευρώπη- Ευρώπη, 2004 (πίσω όψη)",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_5.jpg",
+    "image": "./images/sculpture_5.jpg",
     "year": "2000"
   },
   {
@@ -934,7 +934,7 @@ const sculptures = [
     "title": "Ευρώπη και Σπήλιος, Νέα Μάκρη",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_6.jpg",
+    "image": "./images/sculpture_6.jpg",
     "year": "2000"
   },
   {
@@ -942,7 +942,7 @@ const sculptures = [
     "title": "Αθηνά Γλαυξ- Εκπεσούσα Βασίλισσα",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_7.jpg",
+    "image": "./images/sculpture_7.jpg",
     "year": "2000"
   },
   {
@@ -950,7 +950,7 @@ const sculptures = [
     "title": "Έλλογο &amp;amp; Άλογο- Σωκράτης (μπροστά όψη)",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_8.jpg",
+    "image": "./images/sculpture_8.jpg",
     "year": "2000"
   },
   {
@@ -958,7 +958,7 @@ const sculptures = [
     "title": "Έλλογο &amp;amp; Άλογο- Άλογο (πίσω όψη)",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_9.jpg",
+    "image": "./images/sculpture_9.jpg",
     "year": "2000"
   },
   {
@@ -966,7 +966,7 @@ const sculptures = [
     "title": "Αρχέτυπο",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_10.jpg",
+    "image": "./images/sculpture_10.jpg",
     "year": "2000"
   },
   {
@@ -974,7 +974,7 @@ const sculptures = [
     "title": "Η Νίκη της Σαμοθράκης, 2003",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_11.jpg",
+    "image": "./images/sculpture_11.jpg",
     "year": "2000"
   },
   {
@@ -982,7 +982,7 @@ const sculptures = [
     "title": "Σκύλλα &amp;amp; Χάρυβδη- Σκύλλα (μπροστά όψη)",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_12.jpg",
+    "image": "./images/sculpture_12.jpg",
     "year": "2000"
   },
   {
@@ -990,7 +990,7 @@ const sculptures = [
     "title": "Σκύλλα &amp;amp; Χάρυβδη- Χάρυβδη (πίσω όψη)",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_13.jpg",
+    "image": "./images/sculpture_13.jpg",
     "year": "2000"
   },
   {
@@ -998,7 +998,7 @@ const sculptures = [
     "title": "Δαίδαλος (μπροστά όψη &quot;Μίνωας και Δαίδαλος&quot;), 2004",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_14.jpg",
+    "image": "./images/sculpture_14.jpg",
     "year": "2000"
   },
   {
@@ -1006,7 +1006,7 @@ const sculptures = [
     "title": "Μίνωας (πίσω όψη &quot;Μίνωας και Δαίδαλος&quot;), 2004",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_15.jpg",
+    "image": "./images/sculpture_15.jpg",
     "year": "2000"
   },
   {
@@ -1014,7 +1014,7 @@ const sculptures = [
     "title": "Ο Κύκλος της Ζωής",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_16.jpg",
+    "image": "./images/sculpture_16.jpg",
     "year": "2000"
   },
   {
@@ -1022,7 +1022,7 @@ const sculptures = [
     "title": "Μάνες του Κόσμου- Πυρκαγιά στο Μάτι (μπροστά όψη)",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_17.jpg",
+    "image": "./images/sculpture_17.jpg",
     "year": "2000"
   },
   {
@@ -1030,7 +1030,7 @@ const sculptures = [
     "title": "Μάνες του Κόσμου-Πυρκαγιά στο Μάτι (πίσω όψη)",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_18.jpg",
+    "image": "./images/sculpture_18.jpg",
     "year": "2000"
   },
   {
@@ -1038,7 +1038,7 @@ const sculptures = [
     "title": "Μάνες του Κόσμου- Κάψιμο (λεπτομέρεια)",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_19.jpg",
+    "image": "./images/sculpture_19.jpg",
     "year": "2000"
   },
   {
@@ -1046,7 +1046,7 @@ const sculptures = [
     "title": "Ψυχές, 1999",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_20.jpg",
+    "image": "./images/sculpture_20.jpg",
     "year": "2000"
   },
   {
@@ -1054,7 +1054,7 @@ const sculptures = [
     "title": "Κλυταιμνήστρα και Αγαμέμνωνας (πίσω όψη)",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_21.jpg",
+    "image": "./images/sculpture_21.jpg",
     "year": "2000"
   },
   {
@@ -1062,7 +1062,7 @@ const sculptures = [
     "title": "Κλυταιμνήστρα και Αγαμέμνωνας (μπροστά όψη)",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_22.jpg",
+    "image": "./images/sculpture_22.jpg",
     "year": "2000"
   },
   {
@@ -1070,7 +1070,7 @@ const sculptures = [
     "title": "Ερμής",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_23.jpg",
+    "image": "./images/sculpture_23.jpg",
     "year": "2000"
   },
   {
@@ -1078,7 +1078,7 @@ const sculptures = [
     "title": "Διπρόσωπος-Ψυχές",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_24.jpg",
+    "image": "./images/sculpture_24.jpg",
     "year": "2000"
   },
   {
@@ -1086,7 +1086,7 @@ const sculptures = [
     "title": "Δοξαστικόν, 2001",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_25.jpg",
+    "image": "./images/sculpture_25.jpg",
     "year": "2000"
   },
   {
@@ -1094,7 +1094,7 @@ const sculptures = [
     "title": "Ένσκαφτο2",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_26.jpg",
+    "image": "./images/sculpture_26.jpg",
     "year": "2000"
   },
   {
@@ -1102,7 +1102,7 @@ const sculptures = [
     "title": "Ερωτικό",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_27.jpg",
+    "image": "./images/sculpture_27.jpg",
     "year": "2000"
   },
   {
@@ -1110,7 +1110,7 @@ const sculptures = [
     "title": "Ερωτικό (Πολεμιστής-πίσω πλευρά)",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_28.jpg",
+    "image": "./images/sculpture_28.jpg",
     "year": "2000"
   },
   {
@@ -1118,7 +1118,7 @@ const sculptures = [
     "title": "Τροία, 2002",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_29.jpg",
+    "image": "./images/sculpture_29.jpg",
     "year": "2000"
   },
   {
@@ -1126,7 +1126,7 @@ const sculptures = [
     "title": "Καταφυγή στη Μητρότητα-Σαλιγκάρι, 2004 (2)",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_30.jpg",
+    "image": "./images/sculpture_30.jpg",
     "year": "2000"
   },
   {
@@ -1134,7 +1134,7 @@ const sculptures = [
     "title": "Δούρειος Ίππος",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_31.jpg",
+    "image": "./images/sculpture_31.jpg",
     "year": "2000"
   },
   {
@@ -1142,7 +1142,7 @@ const sculptures = [
     "title": "Καταφυγή στη Μητρότητα-Σαλιγκάρι, 2004 (Πλάι)",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_32.jpg",
+    "image": "./images/sculpture_32.jpg",
     "year": "2000"
   },
   {
@@ -1150,7 +1150,7 @@ const sculptures = [
     "title": "Κραυγές του Δάσους, 1999",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_33.jpg",
+    "image": "./images/sculpture_33.jpg",
     "year": "2000"
   },
   {
@@ -1158,7 +1158,7 @@ const sculptures = [
     "title": "Κυνηγώντας τον Βουκεφάλα",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_34.jpg",
+    "image": "./images/sculpture_34.jpg",
     "year": "2000"
   },
   {
@@ -1166,7 +1166,7 @@ const sculptures = [
     "title": "Κυνηγώντας τις Κραυγές του Δάσους, 1999",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_35.jpg",
+    "image": "./images/sculpture_35.jpg",
     "year": "2000"
   },
   {
@@ -1174,7 +1174,7 @@ const sculptures = [
     "title": "Μέδουσα",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_36.jpg",
+    "image": "./images/sculpture_36.jpg",
     "year": "2000"
   },
   {
@@ -1182,7 +1182,7 @@ const sculptures = [
     "title": "Στον Αστερισμό του Λέοντος",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_37.jpg",
+    "image": "./images/sculpture_37.jpg",
     "year": "2000"
   },
   {
@@ -1190,7 +1190,7 @@ const sculptures = [
     "title": "Στον Αστερισμό του Κριού",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_38.jpg",
+    "image": "./images/sculpture_38.jpg",
     "year": "2000"
   },
   {
@@ -1198,7 +1198,7 @@ const sculptures = [
     "title": "Ομηρικό-Μνηστήρες",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_39.jpg",
+    "image": "./images/sculpture_39.jpg",
     "year": "2000"
   },
   {
@@ -1206,7 +1206,7 @@ const sculptures = [
     "title": "Εναγκαλισμός",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_40.jpg",
+    "image": "./images/sculpture_40.jpg",
     "year": "2000"
   },
   {
@@ -1214,7 +1214,7 @@ const sculptures = [
     "title": "Ολυμπιακό Πνεύμα",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_41.jpg",
+    "image": "./images/sculpture_41.jpg",
     "year": "2000"
   },
   {
@@ -1222,7 +1222,7 @@ const sculptures = [
     "title": "Ολυμπιακό Πνεύμα",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_42.jpg",
+    "image": "./images/sculpture_42.jpg",
     "year": "2000"
   },
   {
@@ -1230,7 +1230,7 @@ const sculptures = [
     "title": "Οικογένεια",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_43.jpg",
+    "image": "./images/sculpture_43.jpg",
     "year": "2000"
   },
   {
@@ -1238,7 +1238,7 @@ const sculptures = [
     "title": "Μάσκα, Γλυπτό σε Ξύλο, 2002",
     "tag": "Γλυπτική",
     "category": "sculpture",
-    "image": "/images/sculpture_44.jpg",
+    "image": "./images/sculpture_44.jpg",
     "year": "2000"
   }
 ];
