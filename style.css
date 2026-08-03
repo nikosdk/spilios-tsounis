@@ -608,6 +608,17 @@ footer {
   justify-content: center;
 }
 
+.home-gallery-row img {
+  height: 100%;
+  flex: 1;
+  object-fit: cover;
+  border: 1px solid white;
+}
+
+.home-gallery-row img.wide {
+  flex: 1.2;
+}
+
 .home-gallery-row.bottom-row {
   width: 80%;
   margin: 0 auto;
@@ -665,7 +676,13 @@ footer {
   }
 
   .home-gallery-row {
+    height: auto;
+    flex-wrap: wrap;
+  }
+
+  .home-gallery-row img {
     height: 150px;
+    flex: 1 1 45%;
   }
 
   .home-gallery-row.bottom-row {
